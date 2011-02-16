@@ -21,15 +21,15 @@ import time
 from services import GCalService
 
 url = 'http://water.com'
-user = 'jknipp'
-pwd = 'Saeshuga725*'
+user = ''
+pwd = ''
 info_url = 'https://selfserve.water.com/OA_HTML/web/selfserve/dswhtml/dswCusVwHomePage.jsp'
 
 # Google calendar 
-GCAL_USER = 'jared.r.knipp@gmail.com'
-GCAL_PASSWORD = 'Saeshuga725*'
-GCAL_DEFAULT_LOCATION = "Jared's House"
-GCAL_DEFAULT_SOURCE = 'Jared-Water.com_Google-Calendar_Script'
+GCAL_USER = ''
+GCAL_PASSWORD = ''
+GCAL_DEFAULT_LOCATION = ""
+GCAL_DEFAULT_SOURCE = 'Water.com_Google-Calendar_Script'
 GCAL_DEFAULT_TIME_ZONE = 'America/Chicago'
 
 def main():
